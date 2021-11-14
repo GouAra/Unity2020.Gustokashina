@@ -7,7 +7,6 @@ public class SphereMovement : MonoBehaviour
     public float theta; //угол в градусах между вектором скорости и OX
     public float phi; //угол в градусах между вектором скорости и OY
     public float velocity; //модуль скорости
-
     private Vector3 v; //вектор скорости
 
 
@@ -22,6 +21,6 @@ public class SphereMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        
+
     }
 }

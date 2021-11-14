@@ -54,8 +54,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets\Template\TutorialInfo\Scripts\Readme.cs" />
-    <Compile Include="Assets\Template\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\SphereMovement.cs" />
+    <Compile Include="Assets\Template\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\Scripts\BallMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
