@@ -34,6 +34,6 @@ public class ArrowQuaternion : MonoBehaviour
         float x = now.x;
         float y = now.y;
         float z = now.z;
-        quaternionText.text = "w = " + w.ToString() + ", x = " + x.ToString() + ", y = " + y.ToString() + ", z = " + z.ToString();
+        quaternionText.text = "Red arrow: (" + w.ToString() + ", " + x.ToString() + ", " + y.ToString() + ", " + z.ToString() + ")";
     }
 }

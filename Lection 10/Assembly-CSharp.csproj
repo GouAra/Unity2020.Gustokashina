@@ -57,6 +57,7 @@
     <Compile Include="Assets\Template\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Template\Scripts\SimpleCameraController.cs" />
     <Compile Include="Assets\Scripts\CubeMovement.cs" />
+    <Compile Include="Assets\Scripts\GimbalMovement.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
