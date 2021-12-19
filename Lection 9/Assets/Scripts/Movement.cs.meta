@@ -3,7 +3,10 @@ guid: d86e25f9e70ce5844a38861f61bea2ef
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - tMP_Input: {instanceID: 0}
+  - prefab: {fileID: 1929958966600829734, guid: 5987cb6373e8f3747ae0546eca0c2403, type: 3}
+  - Sphere: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
